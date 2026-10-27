@@ -1,0 +1,7 @@
+{
+  "name": "QUIZ MASTER",
+  "description": "Premium AhaSlides-style live multiplayer quiz platform with real-time Socket.IO competition, Tamil and English support, and Black & Gold design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
